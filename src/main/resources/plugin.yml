@@ -1,0 +1,4 @@
+name: DamageIndicator
+version: ${project.version}
+main: net.poweredbyawesome.damageindicator.DamageIndicator
+authors: [LaxWasHere]
